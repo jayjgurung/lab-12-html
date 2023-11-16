@@ -1,0 +1,2 @@
+As mentioned in brainstorming-01-home-page.txt this page will have images, audio and texts with link.
+Once they click the linik they will be redirected to the work. 
