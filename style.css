@@ -1,0 +1,30 @@
+p {
+    color: #000fff;
+    font-size: 18px;
+    text-decoration: line-through;
+}
+
+h1 {
+    color: #008000;
+    text-transform: uppercase;
+    margin: 20px;
+    border: 5px dashed red;
+    padding: 40px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    background-color: #888888;
+}
+
+body{
+    font-family: sans-serif;
+}
+/* ID selector */
+#myDiv { 
+    border:1px solid black;
+    background-color: salmon;
+}
+/* class selector */
+.myClass{
+    background-color : antiquewhite;
+}
